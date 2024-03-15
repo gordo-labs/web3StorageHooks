@@ -1,0 +1,8 @@
+{
+  "name": "web3StorageHooks",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Gordo",
+  "license": "MIT",
+  "private": false
+}
